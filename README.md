@@ -1,6 +1,6 @@
 # interview-questions
 
-## Relevant lectures for Commission D
+## Relevant lectures for commission C
 
 - Kimmig
   - Kommunikationssysteme
