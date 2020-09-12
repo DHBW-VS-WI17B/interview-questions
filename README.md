@@ -19,5 +19,6 @@
   - Materialwirtschaft
   - Logistikmanagement
   - Supply Chain Management
+  - Finanzbuchhaltung
 - Welker
   - IT-Management
