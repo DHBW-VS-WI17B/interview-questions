@@ -5,7 +5,7 @@
 ### Wann ist ein System intelligent?
 
 - Ein System heißt intelligent, wenn es selbstständig und effizient Probleme lösen kann.
-- Der Grad derIntelligenz hängt vom Grad der Selbstständigkeit, dem Grad der Komplexität des Problems und dem Grad der Effizienz des Problemlösungsverfahrens ab.
+- Der Grad der Intelligenz hängt vom Grad der Selbstständigkeit, dem Grad der Komplexität des Problems und dem Grad der Effizienz des Problemlösungsverfahrens ab.
 
 ### Welche Arten von Machine Learning gibt es?
 
