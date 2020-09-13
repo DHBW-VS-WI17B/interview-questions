@@ -38,7 +38,7 @@ Der Steuerträger muss die Steuer tatsächlich tragen.
 18. **Wie funktioniert das `2-stufige Verfahren` der `Gewerbesteuer`?**  
 Das Finanzamt ermittelt die Besteuerungsgrundlagen und den sogenannten Gewerbesteuer-Messbetrag und teilt diesen an die örtlich zuständige Gemeinde mit (-> Gewerbesteuer-Messbescheid). Die Gemeinde wendet auf den mitgeteilten GewSt-Messbetrag den durch den Gemeinderat festgelegte Hebesatz an und erlässt den Gewerbesteuerbescheid.
 19. **Was versteht man unter `Differenzbesteuerung`?**  
-Sonderregelung für die Besteuerung von Lieferungen beweglicher Gegenstände, sofern für diese Gegenstände kein Vorsteuerabzug in Frage kommt. Der Umsatz wird in diesem Fall nach der Differenz bemessen, um dem der Verkaufspreis den Einkaufspreis übersteigt (Marge).
+Sonderregelung für die Besteuerung von Lieferungen beweglicher Gegenstände, sofern für diese Gegenstände kein Vorsteuerabzug in Frage kommt. Der Umsatz wird in diesem Fall nach der Differenz bemessen, um die der Verkaufspreis den Einkaufspreis übersteigt (Marge).
 20. **Wie hoch ist der `Regelsteuersatz`?**  
 19 % (derzeit 16 % aufgrund des Konjunkturpakets)
 21. **Wie hoch ist der ermäßigte `Steuersatz`?**  
