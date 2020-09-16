@@ -9,7 +9,6 @@
   - [Künstliche Intelligenz](lectures/ai.md)
 - Ringwald
   - [Einführung in die BWL](lectures/basics-of-business-administration.md)
-  - Marketing
   - [Kosten- und Leistungsrechnung](lectures/cost-and-performance-accounting.md)
   - Handels- und Gesellschaftsrecht
   - Investition und Finanzierung
